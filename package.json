@@ -20,7 +20,7 @@
     "gsap": "3.6.1",
     "imagesloaded": "4.1.4",
     "in-view": "0.6.1",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.1",
     "nuxt": "2.15.3",
     "pug": "3.0.2",
     "pug-plain-loader": "1.0.0",
